@@ -22,3 +22,7 @@ Triggers CI/CD
 Runs tests  
 Builds Docker image  
 Pushes image to DockerHub
+
+# All Work Flow
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c86d4649-0f9f-4a3c-a3a2-790c53da3cf2" />
